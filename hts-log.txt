@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Oct 2021 13:19:23 at https://mobile-tracker-free.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mobile-tracker-free.com -O1 "F:\MTF" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:19:44	Warning: 	Found for mobile-tracker-free.com/robots.txt
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/robots.txt and https://mobile-tracker-free.com/robots.txt
+13:19:44	Warning: 	Warning moved treated for mobile-tracker-free.com/robots.txt (real one is https://mobile-tracker-free.com/robots.txt)
+13:19:44	Warning: 	Found for mobile-tracker-free.com/register/
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/register/ and https://mobile-tracker-free.com/register/
+13:19:44	Warning: 	File has moved from mobile-tracker-free.com/register/ to https://mobile-tracker-free.com/register/
+13:19:44	Warning: 	Found for mobile-tracker-free.com/login/
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/login/ and https://mobile-tracker-free.com/login/
+13:19:44	Warning: 	File has moved from mobile-tracker-free.com/login/ to https://mobile-tracker-free.com/login/
+13:19:44	Warning: 	Found for mobile-tracker-free.com/features/
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/features/ and https://mobile-tracker-free.com/features/
+13:19:44	Warning: 	File has moved from mobile-tracker-free.com/features/ to https://mobile-tracker-free.com/features/
+13:19:44	Warning: 	Found for mobile-tracker-free.com/help/
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/help/ and https://mobile-tracker-free.com/help/
+13:19:44	Warning: 	File has moved from mobile-tracker-free.com/help/ to https://mobile-tracker-free.com/help/
+13:19:44	Warning: 	Found for mobile-tracker-free.com/offers/
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/offers/ and https://mobile-tracker-free.com/offers/
+13:19:44	Warning: 	File has moved from mobile-tracker-free.com/offers/ to https://mobile-tracker-free.com/offers/
+13:19:44	Warning: 	Found for mobile-tracker-free.com/about/
+13:19:44	Warning: 	Redirected link is identical because of 'URL Hack' option: mobile-tracker-free.com/about/ and https://mobile-tracker-free.com/about/
+13:19:44	Warning: 	File has moved from mobile-tracker-free.com/about/ to https://mobile-tracker-free.com/about/
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/css/openhand.cur (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/css/closedhand.cur (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/assets/gridtile.png (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/assets/gridtile_white.png (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/assets/gridtile_3x3.png (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/assets/gridtile_3x3_white.png (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:04	Error: 	"Not Found" (404) at link https://mobile-tracker-free.com/plugins/rs-plugin-5/assets/coloredbg.png (from https://mobile-tracker-free.com/plugins/rs-plugin-5/css/settings.css)
+13:20:21	Warning: 	Link https://mobile-tracker-free.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 58 seconds : 72 links scanned, 57 files written (10261495 bytes overall) [2293008 bytes received at 39534 bytes/sec], 11788649 bytes transferred using HTTP compression in 60 files, ratio 17%, 7.0 requests per connection
+(7 errors, 22 warnings, 0 messages)
